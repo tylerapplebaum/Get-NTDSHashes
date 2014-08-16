@@ -13,7 +13,7 @@ Write-Host @"
 `tA debt of gratitude is owed to: 
 `tmubix at Room362.com - Inspiration for this project
 `tJoachim Metz - libesedb
-`tAndrew Kuchling & Dwayne C. Litzenberger - pycrypto
+`tAndrew Kuchling & Christian Heimes - pycrypto
 `tAaron Lerch - Set-ConsoleIcon.ps1
 `tclymb3r - Invoke-NinjaCopy
 `tCsaba Barta - NTDSXtract Framework
